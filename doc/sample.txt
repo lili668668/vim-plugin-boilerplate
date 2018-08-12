@@ -1,0 +1,3 @@
+*sample.txt* A Template to make a help document *sample*
+
+Please learn more from the `:help add-local-help`
